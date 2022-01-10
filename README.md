@@ -1,24 +1,15 @@
-# README
+# Getting Started Guide
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository is based on [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html), a useful guide to develop a simple blog and discover  Rails. Login data is "dhh" for user and "secret" for password.
 
-Things you may want to cover:
+Things this exercise covers:
 
-* Ruby version
+* You can create a post (public, private or archived)
 
-* System dependencies
+* You can delete a post
 
-* Configuration
+* You can create comments (once logged)
 
-* Database creation
+* You can delete comments
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* A simple but nice experience to know more about Ruby on Rails.
